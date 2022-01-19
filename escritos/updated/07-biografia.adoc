@@ -1,13 +1,17 @@
-== Apéndice Una Breve Biografía de James Nayler
+[short="Biografía de James Nayler"]
+== Apéndice. / Una Breve Biografía de James Nayler
 
+[.heading-continuation-blurb]
 Que relata su piedad y eminencia en el principio de la Sociedad de Amigos,
 su trágica caída demostrada en el incidente de Bristol,
 su reconocimiento público de su error, su arrepentimiento sincero delante de todos,
 y su subsecuente restauración a la comunión y servicio en el Cuerpo de Cristo.
 
-Compilado principalmente de: La Historia del Surgimiento,
-Incremento y Progreso del Pueblo Cristiano Llamado Cuáqueros--por William Sewel;
-La Vida de James Nayler--por Joseph Bevan Gurney; y Las Memorias de John Whiting.
+[.heading-continuation-blurb]
+Compilado principalmente de: [.book-title]#La Historia del Surgimiento,
+Incremento y Progreso del Pueblo Cristiano Llamado Cuáqueros#--por William
+Sewel; [.book-title]#La Vida de James Nayler#--por Joseph Bevan Gurney;
+y [.book-title]#Las Memorias de John Whiting.#
 
 James Nayler nació de padres honestos, en la parroquia de Ardesley,
 cerca de Wakefield en Yorkshire, alrededor del año 1618.
@@ -69,12 +73,15 @@ Nayler fue acusado en las audiencias trimestrales de Appleby por
 lo que se denominaba "`blasfemia;`" es decir (según su acusación),
 por haber dicho que "`Cristo estaba en él,`" y que "`solo había una Palabra de Dios.`"
 El mismo año que Nayler fue soltado de la prisión de Appleby (si no fue durante su confinamiento),
-el escribió un documento, titulado, La Verdad Despejada del Escándalo,
+el escribió un documento, titulado, _La Verdad Despejada del Escándalo,
 Una Respuesta y Declaración de James Nayler Respecto
-Algunas de las Cosas Con Las Que Lo Acusaron.
+Algunas de las Cosas Con Las Que Lo Acusaron._
 Y como este documento contiene la creencia de James Nayler respecto a Cristo (la cual,
 unos pocos años después, se volvió un asunto de mucha controversia),
 el siguiente extracto se consideró digno de mención.
+
+[.embedded-content-document.paper]
+--
 
 Respecto a Jesucristo: +++[+++dice Nayler]
 Él es la Palabra eterna de Dios,
@@ -100,6 +107,8 @@ a fin de librarlo del pecado;
 y yo doy testimonio de que este Cristo se ha revelado en mí en medida (Gálatas 1:16,
 1 Corintios 8:5, Colosenses 1:27).
 
+--
+
 Después de que terminó su confinamiento,
 Nayler siguió viajando en el servicio del evangelio en el norte de Inglaterra.
 Durante varios años, él fue un miembro eminente de la Sociedad de Amigos,
@@ -116,6 +125,8 @@ Es tomada del diario de James Gough,
 y relata un evento que influyó en el convencimiento del honorable ministro y anciano,
 James Wilson.
 
+[quote]
+____
 En los años de juventud +++[+++de James Wilson],
 habiendo sido educado en la religión o iglesia establecida de Inglaterra (así llamada),
 él había formado una opinión muy despectiva del pueblo llamado Cuáqueros y de sus principios,
@@ -172,6 +183,7 @@ En aquellos días las reuniones de Amigos eran favorecidas
 con el poder divino de una manera más eminente,
 debido a que vivían con más devoción a Cristo;
 y consecuentemente tenían más abundancia de Su amor fluyendo en sus corazones.
+____
 
 Tenemos otro corto relato de Nayler, tomado del diario de Thomas Ellwood, quien,
 antes de convertirse en un miembro de la Sociedad de Amigos,
@@ -179,6 +191,8 @@ se había encontrado con él mientras visitaba la casa de Isaac Penington en Cha
 Buckinghamshire.
 Ellwood escribe:
 
+[quote]
+____
 Después de la cena, siendo las noches largas,
 los siervos de la familia (que eran Cuáqueros) fueron llamados a la sala,
 y todos nos sentamos en silencio.
@@ -207,6 +221,7 @@ lo que hizo que yo admirara menos su manera de razonar.
 Pero lo que salió de James Nayler tuvo mayor efecto en mí,
 porque él se veía como un simple y sencillo hombre del campo,
 pues tenía la apariencia de un labrador o de un pastor.
+____
 
 James Nayler llegó a Londres a finales de 1654 o a principios de 1655,
 y encontró una reunión de Amigos en la ciudad,
@@ -331,6 +346,8 @@ En el día 17 del mismo mes (después de mucho debate y contradicción en el par
 habiendo muchos que no aprobaban la severidad que fue usada en su contra),
 llegaron a la siguiente resolución:
 
+[quote]
+____
 "`Que James Nayler será puesto en el cepo, con su cabeza en el cepo,
 en el jardín del palacio de Westminster, durante un lapso de dos horas,
 y luego será azotado por el verdugo mientras lo transportan por las calles de Londres,
@@ -348,6 +365,7 @@ no se le permitirá relacionarse con ninguna persona,
 y será sometido a trabajos forzados hasta que sea liberado por el Parlamento.
 Durante este tiempo se le prohibirá usar pluma, tinta y papel,
 y no tendrá asistencia sino la que él gane con su trabajo diario.`"
+____
 
 Pasó mucho tiempo antes de que ellos pudieran acordar la sentencia, porque,
 aunque suponían que se había cometido blasfemia,
@@ -402,6 +420,8 @@ en los que se podían ver las marcas de sus cascos.
 Rebecca Travers, una persona sobria y respetable, y quien lavó sus heridas,
 dijo en un certificado que fue presentado ante el Parlamento y luego impreso:
 
+[quote]
+____
 "`Desde sus hombros hasta cerca de su cintura,
 no había el espacio de una uña libre de azotes y sangre.
 Su brazo derecho estaba gravemente herido, y sus manos muy lastimadas por las cuerdas,
@@ -410,6 +430,7 @@ A primera vista,
 la sangre y las heridas en su espalda apenas se veían
 debido a la gran cantidad de tierra que las cubrían,
 hasta que fue lavado.`"
+____
 
 Su castigo fue tan severo,
 que algunos juzgaban que su sentencia habría sido
@@ -430,6 +451,8 @@ Durante este intervalo de siete días,
 varias personas le presentaron otra solicitud al Parlamento,
 en la que estaban estas palabras:
 
+[quote]
+____
 "`La moderación y clemencia que ustedes mostraron
 en el aplazamiento del castigo de James Nayler,
 en consideración a la condición de su cuerpo,
@@ -444,6 +467,7 @@ dejándolo en manos del Señor y a esos remedios evangélicos que Él ha santifi
 Estamos persuadidos de que encontrarán que un rumbo
 de amor y tolerancia será más efectivo para rescatarlo,
 y dejará un sello de su amor y ternura sobre nuestros espíritus.`"
+____
 
 Esta petición presentada en la barra de la casa por
 unas cien personas en nombre de la totalidad,
@@ -669,6 +693,9 @@ produjo rápidamente el regreso de su amistad y comunión.
 Después de su liberación,
 publicó varias declaraciones más de retractación. Una de ellas es la siguiente:
 
+[.embedded-content-document.paper]
+--
+
 Gloria al Dios Todopoderoso, quien gobierna en los cielos,
 y en cuyas manos están todos los reinos de la tierra;
 quien levanta y derriba a Su voluntad;
@@ -807,11 +834,17 @@ de la que había bebido mucho, y de la que ahora bebo en medida).
 ¡A Él sea toda la gloria, y toda lengua Lo confiese Juez y Salvador y Dios sobre todo,
 bendito para siempre!
 
+--
+
+[.offset]
 Nayler le agregó a esto,
 una exhortación al lector sobre cómo comportarse
 si en algún momento llegaba a ser tentado a pecar,
 y una advertencia a no confiar demasiado en dones, sabiduría y conocimiento;
 luego concluyó con las siguientes palabras:
+
+[.embedded-content-document.paper]
+--
 
 Estas cosas las aprendí en las profundidades y en secreto, cuando estaba solo,
 y ahora las declaro abiertamente en el día de Tu misericordia,
@@ -821,8 +854,12 @@ y al Dios eterno, invisible, puro y que está sobre todo, sean el temor,
 la obediencia y la gloria para siempre.
 Amén!
 
+[.signed-section-signature]
 James Nayler
 
+--
+
+[.offset]
 Él escribió otro documento en el que relata ampliamente,
 cómo había llegado a caer por falta de vigilancia,
 después de que había obtenido una gran medida de victoria
@@ -835,6 +872,9 @@ al llegar a la ciudad de Londres (justo previo a su caída),
 entró en ella con un temor muy grande, que nunca antes había experimentado en otro lugar,
 al prever en el espíritu (como relata él) que algo le iba a suceder ahí,
 pero no sabía qué:
+
+[.embedded-content-document.paper]
+--
 
 Sin embargo,
 yo en ese momento tenía (continúa él) la misma presencia
@@ -883,19 +923,32 @@ de que Él me llevaría a través y hasta el final de esto,
 y que yo vería de nuevo el día de mi redención de debajo de todo ello.
 Esto tranquilizaba mi alma en mi más grande tribulación.
 
+--
+
+[.offset]
 El autor entonces,
 exhortando seriamente a otros que podían caer también en gran tentación,
 concluye con estas palabras:
+
+[.embedded-content-document.paper]
+--
 
 ¡Al que ha salvado mi alma de la muerte hasta ahora, y ha levantado mis pies del pozo,
 sea la gloria por los siglos de los siglos! ¡Que toda alma atribulada confíe en Él,
 pues Su misericordia permanece para siempre!
 
+[.signed-section-signature]
 James Nayler
 
+--
+
+[.offset]
 Que él llegó a una recuperación perfecta después de haber sido tan engañado,
 parece quedar claro por la siguiente acción de gracias a Dios por Sus misericordias,
 la cual también publicó después de su caída:
+
+[.embedded-content-document]
+--
 
 ¡Mi corazón te alaba, oh mi Dios!
 No permitas que Te olvide; que olvide lo que Tú has sido para mí en la noche,
@@ -955,7 +1008,10 @@ para que toda boca se quede en silencio en Tu mano,
 hasta que hagas que el hombre se conozca a sí mismo, hayas matado al jactancioso,
 y le muestres la vanidad que aflige a Tu Espíritu.`"
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 Esto claramente se muestra como una pieza poética,
 ya que el autor hace uso de expresiones alegóricas en todo momento,
@@ -987,6 +1043,10 @@ algunos de los cuales ya han sido insertados,
 pero la siguiente carta hasta ahora llega a mi mano.
 Es una carta a sus amigos, escrita con su propia mano:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Queridos hermanos,
 
 Mi corazón está quebrantado en este día por la ofensa que
@@ -1015,8 +1075,14 @@ para que el amor de Dios se levante en todos los corazones como antes, si es Su 
 pues Él es el único que puede remover lo que se interpone en el camino.
 No pretendo encubrir nada; Dios es mi testigo en esto.
 
+--
+
+[.offset]
 Él también escribió otras confesiones de sus faltas en ese tiempo, en una de las cuales,
 entre otras, encuentro estas palabras:
+
+[.embedded-content-document]
+--
 
 En cuanto a ustedes, tiernas plantas de mi Padre, que han sufrido debido a mí o conmigo,
 en lo que el Señor ha permitido que se haga conmigo
@@ -1030,16 +1096,28 @@ El Señor sabe que nunca estuvo en mi corazón hacerlos llorar;
 el sufrimiento de ustedes es el más grande dolor que alguna vez me haya sobrevenido,
 pues ustedes son inocentes en esto.
 
+--
+
+[.offset]
 Cuando había terminado esta carta y puesto su nombre, escribió la siguiente posdata:
+
+[.embedded-content-document]
+--
 
 Les ruego (a todos los que puedan) recibir esto como
 desearían ser recibidos por el Señor;
 y en cuanto a los demás,
 que el Señor me dé paciencia para sufrir hasta que Él repare la brecha.
 
+--
+
+[.offset]
 Mientras estaba en Bridewell,
 le escribió al Parlamento que lo había castigado como blasfemo,
 para hacerle saber su verdadera opinión acerca de Jesucristo.
+
+[.embedded-content-document]
+--
 
 Sólo a Jesucristo (el Emanuel,
 de cuyos sufrimientos declaran las Escrituras) confieso delante de los hombres.
@@ -1060,7 +1138,10 @@ y con el fin de quitar todas las ofensas de cada corazón sencillo,
 a declarar esto ante todo el mundo, sin malicia ni engaño, al encontrar diariamente,
 que mi trabajo es buscar la paz en la verdad con todos los hombres, en dicho Espíritu.
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 Después de esto,
 al enterarse de que algunos lo habían perjudicado
@@ -1073,6 +1154,9 @@ También denunció un artículo que alguien había publicado en forma anónima,
 bajo el título [.book-title]#James Nayler`'s Recantation,#^
 footnote:[Es decir, '`Retractación de James Nayler.`']
 en el que se habían pervertido mucho sus palabras.
+
+[.embedded-content-document.paper]
+--
 
 Con respecto +++[+++escribe él]
 a la publicación de ese artículo llamado [.book-title]#James Nayler`'s Recantation,#
@@ -1122,7 +1206,10 @@ encima de toda enemistad y engaño! Y ahora,
 en la fe y poder de Cristo, me rindo para vivir o morir, para sufrir o regocijarme,
 según el deseo de Dios, así sea, sin murmuración.
 
+[.signed-section-signature]
 James Nayler
+
+--
 
 Es innegable, que James Nayler sufrió un gran dolor y profunda humillación interna, y,
 por tanto, debido a que Dios perdona las transgresiones del arrepentido,
@@ -1134,8 +1221,8 @@ se comportó como un verdadero Cristiano--honesto e irreprensible en conducta,
 y soportando pacientemente el oprobio de sus anteriores ofensas.
 
 Cuando el rey Carlos II había ascendido al trono,
-un hombre llamado Richard Blome publicó un libro titulado,
-[.book-title]#The Fanatic History,#^
+un hombre llamado Richard Blome publicó un libro
+titulado, [.book-title]#The Fanatic History,#^
 footnote:[Es decir, Historia de los Fanáticos.]
 del que se decía que había sido publicado con la
 aprobación de los teólogos ortodoxos (así llamados),
@@ -1152,6 +1239,9 @@ ellos son tan numerosos y seductores, que, en poco tiempo,
 esparcirán su veneno sobre la mayor parte de su reino,
 lo que nadie sino una autoridad real podrá reprimir;`"
 Nayler respondió con las siguientes palabras:
+
+[.embedded-content-document]
+--
 
 ¿Qué ha sucedido con tus armas espirituales?
 ¿No les han hablado tus maestros a las personas de
@@ -1270,6 +1360,8 @@ Y en esa luz que tú censuras,
 eres visto como el hombre que fabrica mentiras y lleva '`calumnias
 para derramar sangre.`' (Ezequiel 22:9)
 
+--
+
 Esto y mucho más escribió James Nayler para responder
 a las mentiras de las que era acusado,
 y para mostrar que la culpa de su crimen no debía ser en
@@ -1317,6 +1409,9 @@ Cuando lo ayudaron a cambiar de posición en la cama, dijo,
 Aproximadamente dos horas antes de su muerte,
 dijo las siguientes palabras en presencia de varios testigos:
 
+[.embedded-content-document]
+--
+
 Hay un Espíritu que siento en mí, el cual se deleita en no hacer mal,
 ni en vengar ningún mal, sino en soportar todas las cosas,
 con la esperanza de disfrutar Lo suyo al final.
@@ -1337,12 +1432,21 @@ Lo encontré solo, abandonado.
 Tengo comunión en Él con los que vivieron en cuevas y lugares desolados en la tierra,
 quienes a través de la muerte obtuvieron esta resurrección y vida santa y eterna.
 
+--
+
+[.asterism]
+'''
+
 Así él partió de esta vida en paz con el Señor, cerca del Noveno mes de 1660,
 a los 44 años de edad,
 y fue enterrado en el cementerio de Thomas Parnel en King`'s Rippon.
 
+[.offset]
 Para concluir, tomo prestadas las palabras de Joseph Wyeth,
 de cuyos escritos se extrae lo siguiente:
+
+[.embedded-content-document]
+--
 
 James Nayler fue un hombre altamente favorecido por Dios con un buen grado de gracia,
 la cual habría sido suficiente para él, si se hubiera mantenido en sus enseñanzas.
@@ -1379,3 +1483,5 @@ porque el tentado puede apartarse o descuidar la enseñanza de ella!
 Porque vemos en David y en Pedro,
 que así como sus transgresiones ocurrieron por haberse apartado de este guía infalible,
 el Espíritu Santo, así su recuperación solo ocurriría por medio de Él.`"
+
+--
